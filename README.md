@@ -13,23 +13,19 @@
 </div>
 
 <h1 align="center">
-  hey there 🌼
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7C55D&center=true&random=false&width=435&lines=Hey+there%2C+I'm+Masha+%F0%9F%8C%BC" alt="Typing SVG" /></a>
 </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlieDgwYjlyZ3FvNzFlNGswaGU0bTcxOWVsZHphcTB0aXk2cGxrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" height="300"/>
-</div>
-
-### :woman_technologist: About Me :
+### 🐣 About Me :
 
 I am a Python Developer 🐍 from Russia.
-- :telescope: Now I’m learning for backend for building web applications - Python, DRF, Flask, Fast API, etc.
+- :telescope: Now I’m learning backend for building web applications - Python, DRF, Flask, Fast API, etc.
 - :seedling: Exploring clean and simple coding.
 - :zap: In my free time, I like reading, watching, gaming, just walking, trying not to be eaten by my pup.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🐱‍👤 Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
@@ -47,8 +43,9 @@ I am a Python Developer 🐍 from Russia.
 
 ---
 
-### :fire: My Stats :
+### 👾 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moritys&theme=tokyonight)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moritys&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moritys&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moritys&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=moritys&theme=tokyonight)
