@@ -1,16 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5panEwNHYxemszbmJhMzkyazFjYWk1ZDB0bWdleDFnbWkzZDhpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qFTDbUjNfosTLrNgyE/giphy.gif" width="300"/>
+</div>
 
-<!--
-**moritys/moritys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://t.me/mori_tys">
+    <img src="https://img.shields.io/badge/writeme-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  hey there 🌼
+</h1>
