@@ -43,6 +43,15 @@ I am a Python Developer 🐍 from Russia.
 
 ---
 
+### 🦥 LeetWars :
+
+  [![codewars](https://www.codewars.com/users/empty_room/badges/large)](https://www.codewars.com/users/empty_room)
+
+  [![masha's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=if-i-had-a-heart&theme=dark)](https://github.com/moritys/leetcode-stats)
+
+
+---
+
 ### 👾 My Stats :
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moritys&theme=tokyonight)
